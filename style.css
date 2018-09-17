@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/G5pGCQ82WBjRiHiSiGYDPZUOdKBVC8igFJqEzngV5C3WUurjdeyRxKTQwOK70x9FBMyeZ4cO3Di5v7Gc8fK4twnrfdAJwBsbxHhdymNdw0BxvWQ4omww3668YatspPa4-MQW5ecxQ7nyTV5MlbSAsBJfBLs6Fmko6-Kb3Cs4f9t5vdJPvZoULFKv6OvjB-jy4SM9jEgBQnLkZgpzUCcRxlha6XSHlBdhG2RBYwdgezEd9O72jYQZHCm1Oovzcu04oiZt8-YuMPC9DAn5Y5TLkfJ1O-GuEpe-OBRPM9Wtb7Mq7IGQ6T34n92dzkjNR2srIMv6lLMleNZ-7lpPm5j-v67Frgd2K23l9oRqMwrgbYFM5Vj9MsyEzA-3D3Jap4yML2TsENsxrhYqaa9A2_Rl1ztOlc0HfYdavfFHthjZgmxxCJGb2Xd5LU53Qvijehk-ifX5VoOCb7MOJCA3tUNRwHK8ak4_NdDe0XaUpwxT_eqt6g__UQGP52FoF1pXhbw3Zn0_WZ_erfH1EDxlU1RCvHgVtR39HymHQZPAgeikIwk-3mpuFZG1ALiTi6h8j96vCEaL7UHg6t8ythEOda1XZt3YzKtrqEbeSBKcRDUSTbObAtVCkEUXYy--4dwFKw=w1373-h915-no)
+}
+.game{
+    font-family: "Arial";
+    background-color: white;
+    color:  limegreen;
+}
